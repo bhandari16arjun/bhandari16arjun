@@ -47,13 +47,7 @@
 - 🌍 **Global Rank 1957** out of 31,000+ in LeetCode Biweekly Contest 167
 - 🏅 **Semi-Finalist** in Flipkart GRiD 8.0 Software Development Track
 
-<br>
-
+---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhandari16arjun&amp;show_icons=true&amp;theme=radical" alt="Arjun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandari16arjun&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhandari16arjun&amp;theme=radical" alt="GitHub Streak" />
+  <i>Always learning, always building. ??</i>
 </div>

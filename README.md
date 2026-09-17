@@ -50,10 +50,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhandari16arjun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Arjun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandari16arjun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <a href="https://github.com/bhandari16arjun"><img src="https://github-readme-stats.vercel.app/api?username=bhandari16arjun&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Arjun's GitHub Stats" /></a>
+  <a href="https://github.com/bhandari16arjun"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandari16arjun&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" /></a>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhandari16arjun&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="98%" />
+  <a href="https://github.com/bhandari16arjun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhandari16arjun&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" /></a>
 </div>

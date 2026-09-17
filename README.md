@@ -7,9 +7,10 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/arjun-bhandari-4416a1253"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/arjun-bhandari-329507258/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:arjunmbhandari16@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://leetcode.com/arjunmbhandari16"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://leetcode.com/u/versatileco/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://codeforces.com/profile/_Hemlock_"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   </p>
 </div>
 
@@ -30,13 +31,12 @@
 
 ### 🏆 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[SQLPilot (v2.0)](https://github.com/bhandari16arjun/SqlPilot)** | Agentic Text-to-SQL microservice that *asks before it guesses*. Features an AST Validator to prevent SQL injection and a custom RAG engine. | `LangGraph`, `ChromaDB`, `FastAPI` |
-| **[CodeCraft (Code Judge)](https://github.com/bhandari16arjun/CodeJudge)** | Distributed online code judge handling concurrent code evaluation using isolated Docker compiler backends continuously polling a Redis queue. | `MERN`, `Redis`, `Docker`, `AWS` |
-| **[AI Chess Engine](https://github.com/bhandari16arjun/ChessEngine)** | Custom chess engine featuring a depth-4 NegaMax search algorithm with Alpha-Beta pruning to evaluate tactical game trees in under 2 seconds. | `Python`, `Flask`, `Alpha-Beta` |
-| **[Distributed Rate Limiter](https://github.com/bhandari16arjun/Distributed-Rate-Limiter)** | High-performance distributed rate limiter implemented in Java. | `Java`, `Concurrency` |
-| **[Sign Language Recognition](https://github.com/bhandari16arjun/ContinousSignLanguageRecognition)** | Continuous sign language recognition models using deep learning and vision. | `Jupyter`, `Deep Learning` |
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **SQLPilot (v2.0)** | Agentic Text-to-SQL microservice that *asks before it guesses*. Features an AST Validator to prevent SQL injection and a custom RAG engine. | `LangGraph`, `FastAPI` | [GitHub](https://github.com/bhandari16arjun/SqlPilot) \| [Demo](https://sqlpilot-z317.onrender.com) |
+| **CodeCraft (Code Judge)** | Distributed online code judge handling concurrent code evaluation using isolated Docker compiler backends continuously polling a Redis queue. | `MERN`, `Redis`, `AWS` | [GitHub](https://github.com/bhandari16arjun/CodeJudge) \| [Demo](https://oj-frontend-ehqy.vercel.app/) |
+| **AI Chess Engine** | Custom chess engine featuring a depth-4 NegaMax search algorithm with Alpha-Beta pruning to evaluate tactical game trees in under 2 seconds. | `Python`, `Flask` | [GitHub](https://github.com/bhandari16arjun/ChessEngine) \| [Demo](https://chess-ai-3l23.onrender.com/) |
+| **Distributed Rate Limiter** | High-performance distributed rate limiter implemented in Java. | `Java`, `Concurrency` | [GitHub](https://github.com/bhandari16arjun/Distributed-Rate-Limiter) |
 
 ---
 
@@ -50,10 +50,10 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/bhandari16arjun"><img src="https://github-readme-stats.vercel.app/api?username=bhandari16arjun&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Arjun's GitHub Stats" /></a>
-  <a href="https://github.com/bhandari16arjun"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandari16arjun&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhandari16arjun&amp;show_icons=true&amp;theme=radical" alt="Arjun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandari16arjun&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/bhandari16arjun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhandari16arjun&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhandari16arjun&amp;theme=radical" alt="GitHub Streak" />
 </div>
